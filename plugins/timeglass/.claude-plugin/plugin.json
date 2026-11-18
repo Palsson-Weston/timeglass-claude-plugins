@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "timeglass",
+  "displayName": "Timeglass",
+  "version": "1.0.0",
+  "description": "Ask Claude about your recorded work history, meetings and timesheets in Timeglass, and make the edits your permissions allow.",
+  "author": { "name": "Timeglass, Inc", "url": "https://timeglass.ai" },
+  "homepage": "https://timeglass.ai",
+  "license": "MIT",
+  "keywords": ["timesheets", "time tracking", "meetings", "productivity", "mcp"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://timeglass.ai/help",
+  "supportUrl": "https://timeglass.ai/help",
+  "privacyPolicyUrl": "https://timeglass.ai/privacy",
+  "termsOfServiceUrl": "https://timeglass.ai/terms"
+}

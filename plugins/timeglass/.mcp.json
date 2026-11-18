@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "timeglass": {
+      "type": "http",
+      "url": "https://app.timeglass.ai/api/mcp"
+    }
+  }
+}

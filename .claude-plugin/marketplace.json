@@ -1,0 +1,12 @@
+{
+  "name": "timeglass",
+  "owner": { "name": "Timeglass, Inc", "url": "https://timeglass.ai" },
+  "description": "Timeglass plugins for Claude Code.",
+  "plugins": [
+    {
+      "name": "timeglass",
+      "source": "./plugins/timeglass",
+      "description": "Ask Claude about your recorded work history, meetings and timesheets in Timeglass, and make the edits your permissions allow."
+    }
+  ]
+}
